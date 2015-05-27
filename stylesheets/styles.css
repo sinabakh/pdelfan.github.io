@@ -46,6 +46,10 @@ a small {
   display:block;
 }
 
+a:hover {
+  color: #15C;
+}
+
 .wrapper {
   width:860px;
   margin:0 auto;

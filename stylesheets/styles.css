@@ -2,9 +2,10 @@
 
 body {
   padding:50px;
-  font:15px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
+  text-wrap: balance;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -14,15 +15,10 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
-  text-align: justify;
-  text-justify: inter-word;
-
-a
 }
 
 h1, h2, h3 {
   line-height:1.1;
-
 }
 
 h1 {
@@ -43,11 +39,6 @@ a {
   text-decoration:none;
 }
 
-a:hover
-{
-  color: #236B8E;
-}
-
 a small {
   font-size:11px;
   color:#777;
@@ -56,7 +47,7 @@ a small {
 }
 
 .wrapper {
-  width:860;
+  width:860px;
   margin:0 auto;
 }
 

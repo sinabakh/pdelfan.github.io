@@ -1,4 +1,3 @@
 # pdelfan.github.io
-My personal page
+[My personal page] (http://pdelfan.github.io)
 
-http://pdelfan.github.io

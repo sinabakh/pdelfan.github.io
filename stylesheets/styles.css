@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
-@import url(http://weloveiconfonts.com/api/?family=zocial);
+@import url(http://weloveiconfonts.com/api/?family=brandico);
 
 /* zocial */
-[class*="zocial-"]:before {
-  font-family: 'zocial', sans-serif;
+[class*="brandico-"]:before {
+  font-family: 'brandico', sans-serif;
 }
 
 body {

@@ -6,7 +6,18 @@ body {
   color:#777;
   font-weight:300;
   text-wrap: balance;
-  background-image: url("../images/61H.jpg");
+}
+
+html{
+  
+    //background-image: url("../mages/61H.jpg")//
+
+  background: url(../images/61H.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
 }
 
 h1, h2, h3, h4, h5, h6 {

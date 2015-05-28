@@ -119,7 +119,7 @@ header ul {
   list-style:none;
   height:40px;
   
-  padding:2px;
+  padding:0px;
   
   border-radius:5px;
   border:1px;
@@ -134,7 +134,7 @@ header li {
 }
 
 header ul a {
-  line-height:1;
+  line-height:3;
   font-size:11px;
   padding-top:6px;
   height:20px;

@@ -3,10 +3,10 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#FFFFFF;
   font-weight:300;
   text-wrap: balance;
-      background-image: url("../images/61H.jpg")
+  background-image: url("../images/61H.jpg")
 
 }
 

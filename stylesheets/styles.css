@@ -127,10 +127,10 @@ header ul {
 }
 
 header li {
-  width:33px;
+  width:89px;
   float:left;
   border-right:1px;
-  height:40px;
+  height:10px;
 }
 
 header ul a {

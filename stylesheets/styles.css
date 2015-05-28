@@ -132,7 +132,7 @@ header li {
 header ul a {
   line-height:1;
   font-size:11px;
-  padding-top:2px;
+  padding-top:6px;
   height:20px;
 }
 
@@ -197,7 +197,7 @@ footer {
   }
   
   header a small {
-    display:inline;
+    display:block;
   }
   
   header ul {
